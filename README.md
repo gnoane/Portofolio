@@ -5,6 +5,5 @@ I made my CPGE in Tours at Lycée Descartes, in MP2I.
 I have made my studies in France, Ethiopia, Lebanon, United Arab Emirats, Italia.
 I am delegate in my classroom so I have the Civic Engagement.
 I do bouldering and Brasilian jiujitsu.
-In my futur, I would be
-![Uploading 16844.jpg…]()
+In my futur, I would be (gnoane/Portofolio/blob/main/16844.jpg)
 
