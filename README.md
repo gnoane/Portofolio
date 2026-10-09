@@ -1,7 +1,7 @@
 # Welcome
 
 <p align="right">
-  <img src="16844.jpg)" alt="Photo d'identité" width="200">
+  <img src="16844.jpg" alt="Photo d'identité" width="200">
 </p>
 
 Hello my name is Noane. I am in Enseeiht in Toulouse. I am 20 years old. 
